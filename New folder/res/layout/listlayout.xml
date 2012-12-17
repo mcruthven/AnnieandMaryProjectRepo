@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+	<ImageView
+	    android:id="@+id/image"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:background="#cc8181"
+	    android:scaleType="fitXY"
+	    android:src="@drawable/ic_launcher" 
+	    android:layout_marginTop="15dip"
+	    android:layout_marginLeft="20dip"/>
+    
+</RelativeLayout>
